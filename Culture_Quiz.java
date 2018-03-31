@@ -159,4 +159,5 @@ public class Culture_Quiz extends Activity {
         passDataCultureQuiz.putExtra("answer", checkAnswers());
         startActivity(passDataCultureQuiz);
     }
+    
 }
